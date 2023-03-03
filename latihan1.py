@@ -11,3 +11,12 @@ for i in range(1,101):
   else:
     print(i)
 
+#SOAL NO 3
+print("Soal No 3")
+def is_odd(num):
+    return num % 2 == 1
+
+for i in range(1,101):
+    if is_odd(i):
+        print(i)
+
