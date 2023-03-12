@@ -19,4 +19,3 @@ def is_odd(num):
 for i in range(1,101):
     if is_odd(i):
         print(i)
-
